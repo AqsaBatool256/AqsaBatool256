@@ -1,80 +1,78 @@
+
 # Hi, I'm Aqsa Batool 👋
 
-### BS Computer Science Student | AI & Machine Learning Enthusiast | Python Developer | Cloud Computing Learner
+### BS Computer Science Student | AI/ML Enthusiast | Python Developer | Microsoft Student Ambassador
 
-I'm a Computer Science student with a growing focus on **Artificial Intelligence, Machine Learning, Python development, and Cloud Computing**.
+I'm a Computer Science student at The University of Faisalabad, interested in building practical applications with Python, Artificial Intelligence, and Machine Learning.
 
-I enjoy building practical projects, exploring machine learning workflows, developing Python-based applications, and continuously improving my technical skills through hands-on learning.
+I enjoy turning ideas into useful projects, learning new technologies, and improving my software development skills through hands-on work.
 
----
+🌱 Currently learning Cloud Computing and developing AI-powered applications.
 
 ## 👩‍💻 About Me
 
-* 🎓 BS Computer Science Student at The University of Faisalabad
-* 🤖 Interested in Artificial Intelligence & Machine Learning
-* 🐍 Developing with Python
-* ☁️ Currently learning Cloud Computing
-* 📊 Interested in Machine Learning, Data Analysis & AI applications
-* 🚀 Building practical projects to strengthen my development experience
-* 💼 Open to AI/ML, Python, Data Science and Software Development opportunities
+- 🎓 BS Computer Science student at The University of Faisalabad
+- 🤖 Interested in AI, Machine Learning, and Data Analysis
+- 🐍 Developing Python-based applications
+- ☁️ Learning Cloud Computing
+- 💙 Microsoft Student Ambassador
+- 🚀 Building projects to demonstrate practical technical skills
+- 🎯 Interested in remote software development, AI/ML, and Python opportunities
 
----
 ## 🛠️ Technical Skills
 
-### 💻 Programming & Development
+**Programming:** Python
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+**Data Analysis:** Pandas, NumPy, Exploratory Data Analysis
 
-### 🤖 AI & Machine Learning
+**Machine Learning:** Scikit-learn, classification, model evaluation
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=matplotlib\&logoColor=white)
+**AI & Backend Development:** FastAPI, REST APIs, introductory RAG workflows
 
-### ☁️ Cloud & Tools
+**Tools:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+**Currently Learning:** Cloud Computing, AI application development
 
+## 🚀 Featured Projects
 
+### 🤖 AI Customer Support Assistant 
 
+Building a Python-based support assistant that uses a knowledge base to help answer customer questions.
 
-## 📌 Featured Projects
+- FastAPI backend
+- Retrieval-based question answering
+- ChromaDB and knowledge-base search
+- Goal: publicly deploy a working application
 
-### 🩺 Disease Prediction
+### 🔎 AI Research Intelligence Platform 
 
-Machine learning project using the Breast Cancer Wisconsin dataset with preprocessing, Logistic Regression, evaluation metrics, confusion matrix and ROC-AUC analysis.
+Developing an AI-focused application to help users explore and understand research information.
 
-🔗 [View Project](https://github.com/AqsaBatool256/CodeAlpha_DiseasePrediction)
+- Focus on research discovery and information retrieval
+- Python-based application development
+- Goal: publish the code and deploy a usable version
 
-### 🏠 Home Sale System
+### 🩺 Disease Prediction Using Machine Learning
 
-A software project designed to manage home/property sale-related operations.
+A classification project using the Breast Cancer Wisconsin dataset and Logistic Regression.
+
+- Data preprocessing and model training
+- Accuracy, precision, recall, and F1-score evaluation
+- ROC-AUC analysis
+
+🔗 [View Repository](https://github.com/AqsaBatool256/CodeAlpha_DiseasePrediction)
 
 ### 👁️ Blink-Controlled PDF Reader
 
-A computer vision-based project that explores blink detection for controlling PDF reading functionality.
+A computer vision project exploring blink detection as a hands-free way to control PDF reading.
 
-### 🧠 Rural Areas Healthcare System — Digital Twin
+### 🏠 Home Sale System
 
-Final-year project focused on developing a digital healthcare solution for rural communities, with a focus on diabetes-related healthcare support.
+A software project designed to manage home and property sale-related operations.
 
-### 📧 Email Spam Classification
+### 🏥 Rural Healthcare System — Digital Twin
 
-A machine learning project for classifying emails as spam or non-spam.
-
-### 🔢 MNIST Digit Recognition
-
-A machine learning project for recognizing handwritten digits from the MNIST dataset.
-
----
-
+My final-year project focuses on digital healthcare support for rural communities, with a focus on diabetes-related care.
 
 ## 🏆 Achievements & Recognition
 
@@ -82,43 +80,40 @@ A machine learning project for recognizing handwritten digits from the MNIST dat
 
 Proud to be part of the Microsoft Student Ambassador community!
 
-I'm excited to continue learning, collaborating with fellow technology enthusiasts, and growing my skills in AI, Machine Learning, Python, and Cloud Computing.
+I'm excited to learn, collaborate with fellow technology enthusiasts, and continue growing as a technology professional.
 
-[![Microsoft Student Ambassador Badge](https://img.shields.io/badge/Microsoft-Student%20Ambassador-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com/badges/8ee18e43-05c7-4e9e-910a-896924259d13)
+[![Microsoft Student Ambassador](https://img.shields.io/badge/Microsoft-Student%20Ambassador-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com/badges/8ee18e43-05c7-4e9e-910a-896924259d13)
 
-**[View My Official Badge on Credly →](https://www.credly.com/badges/8ee18e43-05c7-4e9e-910a-896924259d13)**
+🏅 [View My Official Badge on Credly](https://www.credly.com/badges/8ee18e43-05c7-4e9e-910a-896924259d13)
 
 ## 📜 Certifications & Learning
 
-* Microsoft Learn — Cloud Computing & AI Learning
-* Oracle Certified Foundations Associate — Agentic AI
-* Cisco — Introduction to Modern AI
-* Anthropic — AI Fluency Learning
-* Coursera — AI Fundamentals
-* Coursera — AI for Data Analysis
-* Coursera — AI for App Building
-* GitHub Student Developer Pack
+- Oracle Certified Foundations Associate — Agentic AI
+- Cisco — Introduction to Modern AI
+- Anthropic — AI Fluency learning
+- Microsoft Learn — Cloud Computing and AI learning
+- Coursera — AI Fundamentals
+- Coursera — AI for Data Analysis
+- Coursera — AI for App Building
+- GitHub Student Developer Pack
 
----
+## 🌱 Current Focus
 
-## 📊 GitHub Activity
-
-I'm continuously working on projects and learning new technologies in:
-
-**AI • Machine Learning • Python • Data Analysis • Cloud Computing**
-
----
+- Building practical AI and Python projects
+- Improving software engineering and API development skills
+- Learning Cloud Computing and deployment
+- Strengthening my GitHub portfolio
+- Contributing to the developer community
 
 ## 🤝 Connect With Me
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/aqsabatoolsaqib/)
-* 🌐 [Portfolio](https://aqsabatool256.github.io/)
-* 💻 [GitHub](https://github.com/AqsaBatool256)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aqsabatoolsaqib/)
+- 🌐 [Portfolio Website](https://aqsabatool256.github.io/)
+- 💻 [GitHub Profile](https://github.com/AqsaBatool256)
+- 🏅 [Microsoft Student Ambassador Badge](https://www.credly.com/badges/8ee18e43-05c7-4e9e-910a-896924259d13)
 
 ---
 
-### 🚀 Currently Learning
+⭐ Thanks for visiting my profile!
 
-**Artificial Intelligence • Machine Learning • Python Development • Cloud Computing**
-
-> *Learning by buildin*
+I'm always interested in learning, building useful software, and connecting with fellow developers.
