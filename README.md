@@ -75,6 +75,19 @@ A machine learning project for recognizing handwritten digits from the MNIST dat
 
 ---
 
+
+## 🏆 Achievements & Recognition
+
+### 💙 Microsoft Student Ambassador — 2026
+
+Proud to be part of the Microsoft Student Ambassador community!
+
+I'm excited to continue learning, collaborating with fellow technology enthusiasts, and growing my skills in AI, Machine Learning, Python, and Cloud Computing.
+
+[![Microsoft Student Ambassador Badge](https://img.shields.io/badge/Microsoft-Student%20Ambassador-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com/badges/8ee18e43-05c7-4e9e-910a-896924259d13)
+
+**[View My Official Badge on Credly →](https://www.credly.com/badges/8ee18e43-05c7-4e9e-910a-896924259d13)**
+
 ## 📜 Certifications & Learning
 
 * Microsoft Learn — Cloud Computing & AI Learning
